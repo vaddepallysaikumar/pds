@@ -1,1 +1,2 @@
-hii
+hii this is first commit 
+this is task 2 on day 2
